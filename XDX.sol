@@ -81,7 +81,7 @@ pragma solidity ^0.5.17;
 }
 
 
-contract TokenAIR is Owned {
+contract TTT is Owned {
     using SafeMath for uint;
    
   
